@@ -10,7 +10,7 @@ osSemaphoreDef(insert_item);                 		// Semaphore definition
 osSemaphoreId space;                         		// Semaphore ID
 osSemaphoreDef(space);                       		// Semaphore definition
 osSemaphoreId check;
-osSemaphoreDef (check)
+osSemaphoreDef (check);
 
 const unsigned int N = 8;
 unsigned char buffer[N];
